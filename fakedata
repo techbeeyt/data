@@ -24,7 +24,7 @@
         "key": "05",
         "title": "MERN Stack Development Course (BASIC for Beginners).",
         "price": "39.99",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrnkkFTOR0MMdAhkor9HGu2QwyueiWg4whn3ptqxaDpVnI0UrGpoTfJrnskG3pFq_NTE&usqp=CAU"
+        "img": "https://www.sovereignconsult.com/wp-content/uploads/2020/03/MERN-Stack.png"
     }, {
         "key": "06",
         "title": "MERN Stack Development Course (BASIC for Intermediate).",
@@ -34,6 +34,6 @@
         "key": "07",
         "title": "MERN Stack Development Course (Advance Course).",
         "price": "49.99",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrnkkFTOR0MMdAhkor9HGu2QwyueiWg4whn3ptqxaDpVnI0UrGpoTfJrnskG3pFq_NTE&usqp=CAU"
+        "img": "https://www.sovereignconsult.com/wp-content/uploads/2020/03/MERN-Stack.png"
     }
 ]
