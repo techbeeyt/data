@@ -1,41 +1,39 @@
-{
-    "courses": [{
-            "key": "01",
-            "title": "HTML, CSS and JS (Bsic to Advance Course) .",
-            "price": "19.99",
-            "img": "http://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-overview.png"
-        },
-        {
-            "key": "02",
-            "title": "Vanilla JS, jQuery and Custom Elements Advance Course .",
-            "price": "29.99",
-            "img": "https://www.agnosticdev.com/sites/default/files/styles/retina_image/public/2016-01/jsvsjQuery.png?itok=O147w6KE"
-        },
-        {
-            "key": "03",
-            "title": "React JS (Basic to Advance Course)",
-            "price": "29.99",
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQghvcCI3_buV94HmXOYyJYtwKXDXDZMl55NSGgFZtQ7mUr7pBj78NeL2BJv7c8hGaJ_3A&usqp=CAU"
-        }, {
-            "key": "04",
-            "title": "Back-End Development with Node JS (BASIC to ADVANCE Course) .",
-            "price": "39.99",
-            "img": "https://bachasoftware.com/wp-content/uploads/elementor/thumbs/nodejslogo-ovfzvrnm7u9pk6tpkts9r094e1d1uh7si7evpflqpc.png"
-        }, {
-            "key": "05",
-            "title": "MERN Stack Development Course (BASIC for Beginners) .",
-            "price": "39.99",
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrnkkFTOR0MMdAhkor9HGu2QwyueiWg4whn3ptqxaDpVnI0UrGpoTfJrnskG3pFq_NTE&usqp=CAU"
-        }, {
-            "key": "06",
-            "title": "MERN Stack Development Course (BASIC for Intermediate) .",
-            "price": "44.99",
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrnkkFTOR0MMdAhkor9HGu2QwyueiWg4whn3ptqxaDpVnI0UrGpoTfJrnskG3pFq_NTE&usqp=CAU"
-        }, {
-            "key": "07",
-            "title": "MERN Stack Development Course (Advance Course) .",
-            "price": "49.99",
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrnkkFTOR0MMdAhkor9HGu2QwyueiWg4whn3ptqxaDpVnI0UrGpoTfJrnskG3pFq_NTE&usqp=CAU"
-        }
-    ]
-}
+[{
+        "key": "01",
+        "title": "HTML, CSS and JS (Bsic to Advance Course) .",
+        "price": "19.99",
+        "img": "http://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-overview.png"
+    },
+    {
+        "key": "02",
+        "title": "Vanilla JS, jQuery and Custom Elements Advance Course .",
+        "price": "29.99",
+        "img": "https://www.agnosticdev.com/sites/default/files/styles/retina_image/public/2016-01/jsvsjQuery.png?itok=O147w6KE"
+    },
+    {
+        "key": "03",
+        "title": "React JS (Basic to Advance Course)",
+        "price": "29.99",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQghvcCI3_buV94HmXOYyJYtwKXDXDZMl55NSGgFZtQ7mUr7pBj78NeL2BJv7c8hGaJ_3A&usqp=CAU"
+    }, {
+        "key": "04",
+        "title": "Back-End Development with Node JS (BASIC to ADVANCE Course) .",
+        "price": "39.99",
+        "img": "https://bachasoftware.com/wp-content/uploads/elementor/thumbs/nodejslogo-ovfzvrnm7u9pk6tpkts9r094e1d1uh7si7evpflqpc.png"
+    }, {
+        "key": "05",
+        "title": "MERN Stack Development Course (BASIC for Beginners) .",
+        "price": "39.99",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrnkkFTOR0MMdAhkor9HGu2QwyueiWg4whn3ptqxaDpVnI0UrGpoTfJrnskG3pFq_NTE&usqp=CAU"
+    }, {
+        "key": "06",
+        "title": "MERN Stack Development Course (BASIC for Intermediate) .",
+        "price": "44.99",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrnkkFTOR0MMdAhkor9HGu2QwyueiWg4whn3ptqxaDpVnI0UrGpoTfJrnskG3pFq_NTE&usqp=CAU"
+    }, {
+        "key": "07",
+        "title": "MERN Stack Development Course (Advance Course) .",
+        "price": "49.99",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrnkkFTOR0MMdAhkor9HGu2QwyueiWg4whn3ptqxaDpVnI0UrGpoTfJrnskG3pFq_NTE&usqp=CAU"
+    }
+]
