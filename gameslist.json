@@ -1,4 +1,5 @@
-"free": [
+{
+  "free": [
 { 
   "name": "PUBG Mobile 2022",
   "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pubgmobile.com%2Fwebplat%2Finfo%2Fnews_version3%2F35372%2F60662%2F60663%2F60724%2F60725%2F60726%2Fm22521%2F202201%2F908153.shtml&psig=AOvVaw1B8oSa0sE-5JLOA-KrpxT0&ust=1642438847035000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOC5z97ftvUCFQAAAAAdAAAAABAD"
@@ -29,3 +30,4 @@
   "Rating" : "4.5"
 },
 ]
+}
